@@ -1,2 +1,24 @@
 # ReactApp-for-Google-Login-Sample
 A sample react application that uses Expo for a Google based sign in an android device for any application
+
+To get started you will need three things to follow this article.
+
+- Node.js
+- Expo CLI
+
+To install `expo-cli`, please run the following command.
+
+```shell
+npm install -g expo-cli`
+```
+
+To run this app you will have to install the dependencies first and then run the expo command as described below.
+
+```shell
+# to install all dependencies
+
+npm install
+
+# to run
+
+expo-cli start
